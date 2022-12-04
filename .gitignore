@@ -5,6 +5,9 @@
 .packages
 build/
 
+# vsc settings
+.vscode
+
 # images
 assets/
 
