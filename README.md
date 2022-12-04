@@ -1,16 +1,10 @@
 # quiz_app
 
-A new Flutter project.
+퀴즈 웹 앱입니다.
 
-## Getting Started
+## 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+플러터를 이용해 Frontend를 개발하였습니다.
+민감정보들은 제외하여 커밋하였습니다.
+- 이미지
+- api 프로퍼티
